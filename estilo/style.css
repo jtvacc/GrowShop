@@ -158,5 +158,9 @@ article{
 
 }
 
-
+.banner{
+    background-image: url("../img/fondobanner.jpg");
+    height: 3cm;
+    
+}
 
