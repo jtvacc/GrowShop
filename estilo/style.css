@@ -24,6 +24,23 @@ footer h4 {
   color: white;
 }
 
+.box_dos {
+  background-color: blue;
+}
+
+/*maps*/
+.btn--twitter {
+  background-color: #55acee;
+}
+
+.btn--facebook {
+  background-color: #3a5795;
+}
+
+.btn--instagram {
+  background-color: #c25e30;
+}
+
 * {
   padding: 0;
   margin: 0;
