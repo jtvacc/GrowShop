@@ -24,10 +24,6 @@ footer h4 {
   color: white;
 }
 
-.box_dos {
-  background-color: blue;
-}
-
 /*maps*/
 .btn--twitter {
   background-color: #55acee;
@@ -228,5 +224,21 @@ article {
 .banner {
   background-image: url("../img/fondobanner.jpg");
   height: 3cm;
+}
+
+p {
+  color: black;
+  font-size: larger;
+}
+
+h5 {
+  color: black;
+  font-size: larger;
+}
+
+h2 {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 /*# sourceMappingURL=style.css.map */
